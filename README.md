@@ -25,7 +25,7 @@ It  also  tells  about  what  are  the  programming Languages  used  in  SIT  fi
 
 
 
-It  also  indicates  IT  companies  who participate  in SIT Marketing Process.
+It  also  indicates  SIT  companies  who participate  in SIT Marketing Process.
 
 
 
@@ -33,13 +33,9 @@ It  also  lowers  the  cost  to  customer  acceptance  level;  so  that  custome
 
 
 
- The  Programming Languages   Like  C/C+ ,JDollar(JWEB),Dotnet,GDollar,NJDOLLAR,WEBC,Arrowc,AJdollar, W@, DotWEB,JAVA7(OAKJAVA),SAP, Javascript,jquery,
+ The  Programming Languages   Like  C/C+ ,JDollar(JWEB),Dotnet,GDollar,NJDOLLAR,WEBC,Arrowc,AJdollar, W@, DotWEB,JAVA7(OAKJAVA),SAP, Javascript,jquery,Android,Oracle,and Phython ,etc is  always  focused  in SIT field.
 
-
-and Phython ,etc is  always  focused  in SIT field.
-
-
-Since  DOTNET,C/C++,SAP,PHYTHON is  used  with  WRIT Programming Languages.
+  DOTNET,C/C++,SAP,PHYTHON,Android,Oracle is  used  with  WRIT Programming Languages.
 
 
 
